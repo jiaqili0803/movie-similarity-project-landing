@@ -13,8 +13,10 @@ This is the **single URL** for the entire project:
 
 Movies are complex cultural artifacts that can be compared in many ways — by genre, content, emotion, and viewer perception. So we built the neurodiversity-friendly version to help explore the movies based on our users needs, offering a multi-layered understanding of film similarity from both **structural** and **affective** perspectives. Main features:
 
-### 1. Feature-based 
+### 1. Feature-based
+(If you want to see the detailed code and csv we used for this part, check: https://github.com/jiaqili0803/Neurodiversity-Friendly-Movie-Explorer/tree/main)
 ### 2. Emotion-based 
+(If you want to see the detailed code and csv we used for this part, check: https://github.com/roshan-venkatesh-lavanya/FINALPROJECT-VIZ.git)
 
 ---
 # 1. Feature-based 
