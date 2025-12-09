@@ -58,7 +58,7 @@ Movies are complex cultural artifacts that can be compared in many ways — by g
 - **Comparing Movies**
 
 # Deploy
-Both explorers are Dash applications deployable locally and on Render.
+Our visualization was built based on Dash applications, can be deployable locally and on [Render](https://render.com/).
 
 ## Running Locally
 - Install requirements
