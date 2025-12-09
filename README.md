@@ -52,7 +52,7 @@ Movies are complex cultural artifacts that can be compared in many ways — by g
 - **Two Modes**
   - Simplified (ADHD/autism-friendly)  
   - Intense (high-density emotional relationships)
-- **Scatter View""
+- **Scatter View**
 - **Comparing Movies**
 
 # Deploy
