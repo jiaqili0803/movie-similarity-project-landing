@@ -1,5 +1,3 @@
-# movie-similarity-project-landing
-
 # 🎬 Movie Similarity Explorer - Neurodiversity-Friendly 
 ### CS 7250 · Final Visualization Project  
 *interactive system for exploring movie similarity through feature-based and emotional models.*
@@ -15,8 +13,8 @@ This is the **single URL** for the entire project:
 
 Movies are complex cultural artifacts that can be compared in many ways — by genre, content, emotion, and viewer perception. So we built the neurodiversity-friendly version to help explore the movies based on our users needs, offering a multi-layered understanding of film similarity from both **structural** and **affective** perspectives. Main features:
 
-### **1. Feature-based **
-### **2. Emotion-based **
+### 1. Feature-based 
+### 2. Emotion-based 
 
 ---
 # 1. Feature-based 
